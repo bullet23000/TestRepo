@@ -5,3 +5,4 @@
         with:
           app-id: ${{ secrets.ACCURICS_APP_ID }}
           env-id: ${{ secrets.ACCURICS_ENV_ID }}
+          repo: "https://github.com/bullet23000/TestRepo.git"
