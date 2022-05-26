@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "projectName": {
-            "value": "" // TODO: Fill in parameter value
+            "value": "test" // TODO: Fill in parameter value
         },
         "location": {
-            "value": "" // TODO: Fill in parameter value
+            "value": "uk" // TODO: Fill in parameter value
         },
         "adminUsername": {
-            "value": "" // TODO: Fill in parameter value
+            "value": "admin" // TODO: Fill in parameter value
         },
         "adminPassword": {
-            "value": "" // TODO: Fill in parameter value
+            "value": "password" // TODO: Fill in parameter value
         },
         "vmSize": {
             "value": "Standard_DS1_v2"
